@@ -53,7 +53,7 @@ const revSentence = (words) => {
     }
     return revSent;
 }
-console.log(revSentence("eliadi watch hunter X hunter")); */
+console.log(revSentence("daniel watch hunter X hunter")); */
 
 
 
